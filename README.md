@@ -1,5 +1,5 @@
 # Lab 8 - Starter
-Vasil Bogdev
+Vasil Bogdev (also any commits by vbnqwe is still me, just a github that uses my personal email)
 
 Questions:
 1) 1. A github action will ensure that your code will always be automatically be tested making it the most efficient and will always do tests on updates, unlike 2 and 3.
