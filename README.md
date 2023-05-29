@@ -1,5 +1,6 @@
 # Lab 8 - Starter
-Vasil Bogdev (also any commits by vbnqwe is still me, just a github that uses my personal email)
+Vasil Bogdev 
+Note: it says that vbnqwe did the last commit, but vbnqwe is the account that I use for personal nonschool projects. If you search up the account, you will find that name from the profile is vbogdev2. For some reason, even if I sign out on github desktop and sign into my school account, it still lists all commits as done by vbnqwe. If necessary, I can prove that vbnqwe is my account.
 
 Questions:
 1) 1. A github action will ensure that your code will always be automatically be tested making it the most efficient and will always do tests on updates, unlike 2 and 3.
