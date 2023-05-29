@@ -83,7 +83,7 @@ test('Test if #FFFFFF is a valid hex color', () => {
 });
 
 test('Test if #FFFFFF is a valid hex color', () => {
-    expect(functions.isHexColor("#1F2A12")).toBe(true);
+    expect(functions.isHexColor("#111111")).toBe(true);
 });
 
 test('Test if #ZZZZZZ is a valid hex color', () => {
